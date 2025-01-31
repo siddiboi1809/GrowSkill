@@ -1,0 +1,222 @@
+ 01st May'24
+Class #1: Course Introduction https://youtu.be/qMvzFL9Ved4
+02nd May'24
+Class #2: Software Testing Introduction https://youtu.be/mX814OWM0gA
+03rd May'24
+Class #3: Types of Testing https://youtu.be/4zRoNVYIUzs
+06th May'24
+Class #4: STLC, Test Scenarios etc. https://youtu.be/_33ngpSyo6A
+07th May'24
+Class #5: Test Scenarios, Test Cases, Test Scripts etc https://youtu.be/2JPOSZxT91A
+08th May'24
+Class #6: Types of Testing Contd: Installation, Black Box, White Box, System Testing https://youtu.be/H_hLKFYCI5A
+09th May'24
+Class #7: Regression, Random, Performance Testing https://youtu.be/0szm9ATUiaU
+10th May'24
+Class #8: SDLC: Waterfall Model vs Agile https://youtu.be/WDmEPH9-tLs
+13th May'24
+Class #9: Scrum Ceremonies, Sprint, User Story, Acceptance Criteria etc. https://youtu.be/2VxPCZpSG80
+14th May'24
+Class #10: Remaining Topics in Manual Testing https://youtu.be/7Ptx4MNHzYI
+15th May'24
+Class #11: Project 1 https://youtu.be/OBrXGnk2PLs
+16th May'24
+Class #12: Quiz 1 https://youtu.be/XS_M8-udwes
+ 17th May'24
+Class #13: Quiz Discussion, Java Introduction https://youtu.be/E5wBaNKJUVI
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 20th May'24
+Class #14: Java Contd: Structure of Java Program, Naming Conventions in Java etc. https://youtu.be/XWXR2cKxuSw
+ 21st May'24
+Class #15: Operators in Java https://youtu.be/PBvyyM2uQGU
+ 22nd May'24
+Class #16: Operators in Java Contd https://youtu.be/rfSkk387g3k
+ 23rd May'24
+Class #17: Datatypes in Java https://youtu.be/t5MZQGO9Rh0
+ 24th May'24
+Class #18: Conditional Statement in Java: If-Else, Nested If, Switch Case https://youtu.be/zuch6BUr03M
+27th May'24
+Class #19: Looping Statements in Java: For Loop https://youtu.be/iJLLI_jOEKE
+ 28th May'24
+Class #20: Looping Statements in Java: Nested For Loop, Infinite For Loop, While Loop, etc. https://youtu.be/xogciLh1hj4
+29th May'24
+Class #21: Looping Statements in Java: Do-While Loop, Break, Continue https://youtu.be/jkNB0MgwuuE
+ 30th May'24
+Class #22: String in Java https://youtu.be/LD74bXUmBwc
+31st May'24
+Class #23: Methods Contd: Concat, CharAt, indexOf etc. https://youtu.be/FPs7nHRX0_4
+1st Jun'24
+Class #24: Methods Contd: Split Method https://youtu.be/oA6tjzKWBsY
+4th Jun'24
+Class #25: Variables in Java https://youtu.be/5HLFEXeuRLg
+5th Jun'24
+Class #26: Access Specifiers in Java https://youtu.be/jPSKvKEVvys
+6th Jun'24
+Class #27: Java Revision https://youtu.be/lxYXStmb0AY 
+7th Jun'24
+Class #28: Methods in Java https://youtu.be/GomJYucDi5w
+8th Jun'24
+Class #29: Methods Contd: Methods with Arguments/Parameters, Declaration,  Method Overloading https://youtu.be/GIFC1zsd6vQ
+10th Jun'24
+Class #30: Return type in Java: https://youtu.be/OftbYg4POyg
+11th Jun'24
+Class #31: Constructors in Java https://youtu.be/BSR851Wbjx4
+12th Jun'24
+Class #32: Class, Object, & Package https://youtu.be/vdiCOhPE5so
+13th Jun'24
+Class #33: OOPS: Inheritance https://youtu.be/PDWdPzAo1-I
+14th Jun'24
+Class #34: OOPS: Polymorphism https://youtu.be/nfjHxc2gg-k
+16th Jun'24
+Class #35: Coding Session https://youtu.be/_UJQ86PzawI
+18th Jun'24
+Class #36: Oops Contd: Abstraction https://youtu.be/efUADV2drU4
+19th Jun'24
+Class #37: Oops Contd: Encapsulation https://youtu.be/uZ7Rh7kgx0U
+20th Jun'24
+Class #38: Interface in Java https://youtu.be/FYNigcdpjvE
+21st Jun'24
+Class #39: Oops Revision https://youtu.be/tEfXHGABAyc
+26th Jun'24
+Class #40: Java Arrays https://youtu.be/_1Xioai-71I
+27th Jun'24
+Class #41: Arrays Session 2 https://youtu.be/YEzGgDuPxZY
+28th Jun'24
+Class #42: Array Practice https://youtu.be/sN1S-JCLuNU
+01st Jul'24
+Class #43: Array Practice Contd  https://youtu.be/7-2CtDqiQoc
+02nd Jul'24
+Class #44: Collection in Java https://youtu.be/unO52AcBlnw
+03rd Jul'24
+Class #45: Collections in Java Contd https://youtu.be/aVhHaQ1GnLU
+04th Jul'24
+Class #46: Collections in Java Contd: HashMap https://youtu.be/6Kf0pmI8hqQ
+07th Jul'24
+Class #48: Java Quiz https://youtu.be/DeF-pcsbftI
+08th Jul'24
+Class #49: Java Quiz Discussion https://youtu.be/a2fCj-y9Tyk
+
+
+==================================================================================================================================================
+
+
+05th Jul'24
+Class #47: Automation Testing Introduction https://youtu.be/RjAlC2tlvVc
+09th Jul'24
+Class #50: Selenium Introduction https://youtu.be/s0-G1wOAthc
+10th Jul'24
+Class #51: Selenium Download, IDE, Webdriver etc. https://youtu.be/IeMFbfamBBk 
+11th Jul'24
+Class #52: Selenium Configuration, Basic Program in Selenium https://youtu.be/IcdvhyGUKJI
+12th Jul'24
+Class #53: Locators in Selenium https://youtu.be/a8U2pU73l1A
+19th Jul'24
+Class #54: Validation Commands in WebDriver https://youtu.be/Bs-JkjXu6v8
+20th Jul'24
+Class #55: WebElement https://youtu.be/xYkDIpftvS0 (Need to revisit this video)
+ 22nd Jul'24
+Class #56: Fast.com, other interview questions practice https://youtu.be/KGv2VfoRwd8
+23rd Jul'24
+Class #57: Working with Similar Multiple Elements https://youtu.be/4ztJjZQLLWk  (Need to practice the programs)
+24th Jul'24
+Class #58: Select Class in Selenium https://youtu.be/DYW2UGadPuQ (Need to practice the programs)
+25th Jul'24
+Class #59: Reusable Methods https://youtu.be/itR4t43MDx8  (NEED TO REVISIT THIS VIDEO)
+26th Jul'24
+Class #60: Coding Practice https://youtu.be/bApozuhkp18
+27th Jul'24
+Class #61: Xpath: Session 1 https://youtu.be/h323Hu00q-U
+28th Jul'24
+Class #62: Xpath: Session 2 https://youtu.be/vVUc6Hmcbuk
+30th Jul'24
+Class #63: Xpath: Session 3 https://youtu.be/l50yP1wl2GY
+31st Jul'24
+Class #64: Frames https://youtu.be/-6p1n7Z1CW8
+1st Aug'24
+Class #65: Actions Class https://youtu.be/6xapVnP8cJA
+2nd Aug'24
+Class #66: CSS Selector https://youtu.be/pkJdMNavxEc
+5th Aug'24
+Class #67: Handling Web Table in Selenium https://youtu.be/0v2Qgj2f_jM
+6th Aug'24
+Class #68: Handling Alerts in Selenium https://youtu.be/qA6sUWDA180
+7th Aug'24
+Class #69: Data Driven Testing: Data from Excel https://youtu.be/psQy2I81d5g
+8th Aug'24
+Class #70: Data Driven Testing: Session 2 https://youtu.be/X5kqBYCkxWg
+9th Aug'24
+Class #71: Data Driven Testing: Session 3 https://youtu.be/Y16T6Z9DbBw
+12th Aug'24
+Class #72: Data from Notepad https://youtu.be/4-eN_R4cgog
+13th Aug'24
+Class #73: Handling Sceenshots in Selenium https://youtu.be/6Ol5TuemUoQ
+14th Aug'24
+Class #74: Synchronization Point https://youtu.be/CGngmlzzOsA
+16th Aug'24
+Class #75: Page Object Model https://youtu.be/yd83Chq05cw
+20th Aug'24
+Class #76: Handling Multiple Windows in Selenium https://youtu.be/BWhiY5wexjs
+21st Aug'24
+Class #77: Frameworks Introduction https://youtu.be/pRlPIaUKYCs
+22nd Aug'24
+Class #78: Framework: Session 2- TestNG, JUnit https://youtu.be/RPxKlGzQKuU
+23rd Aug'24
+Class #79: Frameworks: Session 3- TestNG Contd https://youtu.be/lM1Wrv1-qkE
+24th Aug'24
+Class #80: Frameworks: Session 4- TestNG Contd https://youtu.be/kpGpEV_G5L8
+26th Aug'24
+Class #81: Frameworks: Session 5- TestNG Contd https://youtu.be/IshUiA35yF0
+27th Aug'24
+Class #82: Frameworks: Session 6- TestNG Contd https://youtu.be/RRLOpXZHNqA
+28th Aug'24
+Class #83: Exception Handling in Java https://youtu.be/AbjuqWJ-VJg
+29th Aug'24
+Class #84: Apache Maven https://youtu.be/uGAbcgY25DI
+30th Aug'24
+Class #85: Hybrid Framework https://youtu.be/UrLy7o4NLNw
+31st Aug'24
+Class #86: Resume Building Session https://youtu.be/DAPzLAvEZB0
+1st Sep'24
+Class #87: Project, Naukri Profile Building https://youtu.be/DqNAs0r-TPc
+03rd Sep'24
+Class #88: Selenium Test https://youtu.be/RrlzoLYOF-4
+05th Sep'24
+Class #89: Quiz Answers https://youtu.be/0NypHM_NNJ0
+06th Sep'24
+Class #90: toCharArray Method, Interview Related Practice https://youtu.be/k1qwPtct9lw
+
+
+==================================================================================================================================================
+
+18th Sep'24
+Class #91: API Testing: Session 1 https://youtu.be/h07TLXTKtJk
+19th Sep'24
+Class #92: API Testing: Session 2 https://youtu.be/EDF-dCDljJA
+20th Sep'24
+Class #93: API Testing: Session 3 https://youtu.be/Mgyfl-luTkY
+20th Sep'24
+Class #94: API Testing: Session 4 https://youtu.be/MC2hGALvYtg
+23rd Sep'24
+Class #95: API Testing: Session 5 https://youtu.be/EeimbB5YY7A
+24th Sep'24
+Class #96: API Testing: Session 6 https://youtu.be/YaryMNTcEoI
+25th Sep'24
+Class #97: API Testing Quiz https://youtu.be/9VrDz0Xgnyc
+26th Sep'24
+Class #98: API Testing Quiz Discussion https://youtu.be/a0K7F4xdojI
+27th Sep'24
+Class #99: QnA https://youtu.be/C7rK6GACe3g
+
+
+==================================================================================================================================================
+
+03rd Oct'24
+Class #100: Git https://youtu.be/XJtYgZNejBc
+04th Oct'24
+Class #101: Git Contd, Maven https://youtu.be/mUP4Rg3mO0U
+05th Oct'24
+Class #102: Maven Continued https://youtu.be/5fboW06aIkE
